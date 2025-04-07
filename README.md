@@ -25,7 +25,7 @@
 **table.intersect**(<sup>table</sup> first, <sup>table</sup> second)[<sup>table</sup> result]
 - set intersection
 
-## LOVE2D : ssys.lua
+## LOVE2D : ssys.lua [dependent: opairs.lua]
 **ssys.new**(<sup>string</sup> scene name, <sup>string</sup> love2d callback, <sup>func</sup> function, <sup>number or nil</sup> order)[void]
 - creates a new callback at its own order (order is 0 by default)
 
