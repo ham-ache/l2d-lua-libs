@@ -50,6 +50,3 @@ uniform <sup>seed</sup> seed
 
 uniform <sup>vec2</sup> bgOffset
 - offset the clouds towards the vec2
-
-uniform <sup>float</sup> tmult
-- time multiplier. will be removed.
